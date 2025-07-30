@@ -1,5 +1,8 @@
 # 📦 Delivery System - Banco de Dados MySQL
 
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)](https://www.mysql.com/)  
+[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square)](https://www.php.net/)  
+
 Projeto acadêmico de modelagem e implementação de um banco de dados completo para um sistema de delivery. Desenvolvido com foco em boas práticas de normalização, integridade referencial e uso geral de SQL.
 
 ---
